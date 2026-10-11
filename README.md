@@ -22,6 +22,7 @@ A secure and responsive Credit Card Transaction Management System developed usin
 ## 🛠️ Technologies Used
 
 ### Frontend
+
 - HTML5
 - CSS3
 - JavaScript
@@ -29,14 +30,17 @@ A secure and responsive Credit Card Transaction Management System developed usin
 - Tailwind CSS / Bootstrap
 
 ### Backend
+
 - Python
 - Django
 - Django REST Framework
 
 ### Database
+
 - SQLite / MySQL
 
 ### Tools
+
 - Git & GitHub
 - Postman
 - VS Code
